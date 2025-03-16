@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+html5lib
+selenium
+chromedriver-binary
+geckodriver
+webdriver-manager
+jupyter
+ipykernel
